@@ -47,7 +47,7 @@ The objective is to provide **data-driven insights** into EV sales, stock growth
 
 ### 1️⃣ Main Dashboard
 
-(Main Dashboard.png)<img width="966" height="746" alt="Main Dashboard" src="https://github.com/user-attachments/assets/836e4e11-e053-4054-aaeb-432c7ad2c3fc" />
+<img width="966" height="746" alt="Main Dashboard" src="https://github.com/user-attachments/assets/836e4e11-e053-4054-aaeb-432c7ad2c3fc" />
 
 
 - Key KPIs: Total EV Sales, Total EV Stock, Top Region, Top Powertrain
@@ -59,7 +59,7 @@ The objective is to provide **data-driven insights** into EV sales, stock growth
 
 ### 2️⃣ Regional & Category Trends
 
-![Regional & Category Trends](images/regional_trends.png)
+<img width="1102" height="743" alt="Regional   Category Trends" src="https://github.com/user-attachments/assets/20d7a603-3626-4fc5-baf4-98a3e523b3bf" />
 
 - Region-wise EV adoption
 - EV penetration across vehicle categories
@@ -68,7 +68,7 @@ The objective is to provide **data-driven insights** into EV sales, stock growth
 
 ### 3️⃣ Powertrain & Mode Insights
 
-![Powertrain & Mode Insights](images/powertrain_insights.png)
+<img width="1103" height="739" alt="Powertrain   Mode Insights" src="https://github.com/user-attachments/assets/0f595ba6-16ea-43b3-ac86-de97ccaf9c11" />
 
 - Powertrain adoption across transport modes
 - Passenger vs Freight EV comparison
@@ -77,7 +77,7 @@ The objective is to provide **data-driven insights** into EV sales, stock growth
 
 ### 4️⃣ Parameter & Unit Analysis
 
-![Powertrain & Mode Insights](images/powertrain_insights.png)
+<img width="1176" height="742" alt="Parameter   Unit Analysis" src="https://github.com/user-attachments/assets/d8e17ece-8dc6-4172-9de4-ce4336af4816" />
 
 - Frequency of EV parameters
 - Charging infrastructure distribution
@@ -86,7 +86,7 @@ The objective is to provide **data-driven insights** into EV sales, stock growth
 
 ### 5️⃣ Time Series & Comparative Analysis
 
-![Time Series & Comparative Analysis](images/powertrain_insights.png)
+<img width="1183" height="760" alt="Time Series   Comparative Analysis" src="https://github.com/user-attachments/assets/e18fe332-c584-4625-b7d8-09115b28ebc7" />
 
 - Year-over-year EV growth
 - CAGR analysis
