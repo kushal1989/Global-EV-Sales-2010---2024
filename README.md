@@ -47,7 +47,7 @@ The objective is to provide **data-driven insights** into EV sales, stock growth
 
 ### 1️⃣ Main Dashboard
 
-![Main Dashboard](images/main_dashboard.png)
+![Main Dashboard]("C:\Users\USER\Desktop\images\Main Dashboard.png")
 
 - Key KPIs: Total EV Sales, Total EV Stock, Top Region, Top Powertrain
 - Global EV stock growth trends
