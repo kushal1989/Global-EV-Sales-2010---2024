@@ -103,21 +103,3 @@ The objective is to provide **data-driven insights** into EV sales, stock growth
 The project highlights the rapid global transition toward electric mobility, driven primarily by passenger vehicles and BEV technology. While developed regions lead adoption, developing countries present strong future potential. Continued investment in infrastructure, renewable energy, and targeted EV policies is essential for sustainable growth.
 
 ---
-
-## 🛠 Tools & Technologies
-- Power BI
-- Power Query
-- DAX
-- Microsoft Excel
-- GitHub
-
----
-
-## 📁 Repository Contents
-- `Global EV Sales 2010–2024.pbix` – Power BI dashboard file  
-- `IEA Global EV Data 2024.csv` – Dataset  
-- `README.md` – Project documentation  
-- Dashboard screenshots  
-
-2. Open it using **Power BI Desktop**  
-3. Use filters and slicers to explore insights  
