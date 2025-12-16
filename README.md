@@ -49,13 +49,14 @@ The objective is to provide **data-driven insights** into EV sales, stock growth
 
 <img width="966" height="746" alt="Main Dashboard" src="https://github.com/user-attachments/assets/836e4e11-e053-4054-aaeb-432c7ad2c3fc" />
 
-
 - Key KPIs: Total EV Sales, Total EV Stock, Top Region, Top Powertrain
 - Global EV stock growth trends
 - BEV vs PHEV comparison
 - Charging infrastructure growth
 - EV energy demand trends
 - Future EV stock projection
+
+
 
 ### 2️⃣ Regional & Category Trends
 
@@ -66,6 +67,8 @@ The objective is to provide **data-driven insights** into EV sales, stock growth
 - Developed vs Developing region comparison
 - Category dominance by region
 
+
+
 ### 3️⃣ Powertrain & Mode Insights
 
 <img width="1103" height="739" alt="Powertrain   Mode Insights" src="https://github.com/user-attachments/assets/0f595ba6-16ea-43b3-ac86-de97ccaf9c11" />
@@ -74,6 +77,8 @@ The objective is to provide **data-driven insights** into EV sales, stock growth
 - Passenger vs Freight EV comparison
 - Powertrain growth trends
 - Mode–powertrain combinations by region
+
+
 
 ### 4️⃣ Parameter & Unit Analysis
 
@@ -84,6 +89,8 @@ The objective is to provide **data-driven insights** into EV sales, stock growth
 - Electricity demand trends
 - Unit-wise metric analysis
 
+
+
 ### 5️⃣ Time Series & Comparative Analysis
 
 <img width="1183" height="760" alt="Time Series   Comparative Analysis" src="https://github.com/user-attachments/assets/e18fe332-c584-4625-b7d8-09115b28ebc7" />
@@ -92,6 +99,8 @@ The objective is to provide **data-driven insights** into EV sales, stock growth
 - CAGR analysis
 - Peak adoption years
 - Long-term EV trends
+
+
 
 ---
 
