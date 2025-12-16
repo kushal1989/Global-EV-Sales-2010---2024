@@ -46,6 +46,9 @@ The objective is to provide **data-driven insights** into EV sales, stock growth
 ## 📊 Dashboard Pages
 
 ### 1️⃣ Main Dashboard
+
+![Main Dashboard](images/main_dashboard.png)
+
 - Key KPIs: Total EV Sales, Total EV Stock, Top Region, Top Powertrain
 - Global EV stock growth trends
 - BEV vs PHEV comparison
@@ -54,24 +57,36 @@ The objective is to provide **data-driven insights** into EV sales, stock growth
 - Future EV stock projection
 
 ### 2️⃣ Regional & Category Trends
+
+![Regional & Category Trends](images/regional_trends.png)
+
 - Region-wise EV adoption
 - EV penetration across vehicle categories
 - Developed vs Developing region comparison
 - Category dominance by region
 
 ### 3️⃣ Powertrain & Mode Insights
+
+![Powertrain & Mode Insights](images/powertrain_insights.png)
+
 - Powertrain adoption across transport modes
 - Passenger vs Freight EV comparison
 - Powertrain growth trends
 - Mode–powertrain combinations by region
 
 ### 4️⃣ Parameter & Unit Analysis
+
+![Powertrain & Mode Insights](images/powertrain_insights.png)
+
 - Frequency of EV parameters
 - Charging infrastructure distribution
 - Electricity demand trends
 - Unit-wise metric analysis
 
 ### 5️⃣ Time Series & Comparative Analysis
+
+![Time Series & Comparative Analysis](images/powertrain_insights.png)
+
 - Year-over-year EV growth
 - CAGR analysis
 - Peak adoption years
